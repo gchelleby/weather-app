@@ -1,0 +1,24 @@
+.app {
+    max-width: 350px;
+    margin: auto;
+}
+.search {
+    margin-top: 40px;
+    width: 50%;
+}
+.box {
+    width: 110px;
+}
+.button {
+    background-color: white;
+    border: transparent;
+    border-radius: 15%;
+}
+.weather-card {
+    color:white;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.6;
+    width: 20em;
+    border-radius: 20%;
+    text-align: center;
+}
